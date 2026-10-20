@@ -1,7 +1,7 @@
 name: inson_farosat
-description: Inson Farosat mobil ilovasi uchun boshlangich Flutter loyiha.
+description: Inson Farosat - 1-4 sinf o'quvchilari uchun ta'limiy mobil ilova.
 publish_to: 'none'
-version: 1.0.0+1
+version: 0.1.0+1
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
